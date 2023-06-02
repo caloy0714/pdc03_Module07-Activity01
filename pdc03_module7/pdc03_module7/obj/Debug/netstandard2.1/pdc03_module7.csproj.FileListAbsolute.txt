@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\pdc03_module7\pdc03_module7\pdc03_module7\bin\Debug\netstandard2.1\pdc03_module7.deps.json
+C:\Users\User\source\repos\pdc03_module7\pdc03_module7\pdc03_module7\bin\Debug\netstandard2.1\pdc03_module7.dll
+C:\Users\User\source\repos\pdc03_module7\pdc03_module7\pdc03_module7\bin\Debug\netstandard2.1\pdc03_module7.pdb
+C:\Users\User\source\repos\pdc03_module7\pdc03_module7\pdc03_module7\obj\Debug\netstandard2.1\pdc03_module7.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\pdc03_module7\pdc03_module7\pdc03_module7\obj\Debug\netstandard2.1\pdc03_module7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\pdc03_module7\pdc03_module7\pdc03_module7\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\User\source\repos\pdc03_module7\pdc03_module7\pdc03_module7\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\User\source\repos\pdc03_module7\pdc03_module7\pdc03_module7\obj\Debug\netstandard2.1\View\AddEmployee.xaml.g.cs
+C:\Users\User\source\repos\pdc03_module7\pdc03_module7\pdc03_module7\obj\Debug\netstandard2.1\View\ShowEmployeePage.xaml.g.cs
+C:\Users\User\source\repos\pdc03_module7\pdc03_module7\pdc03_module7\obj\Debug\netstandard2.1\pdc03_module7.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\pdc03_module7\pdc03_module7\pdc03_module7\obj\Debug\netstandard2.1\pdc03_module7.AssemblyInfo.cs
+C:\Users\User\source\repos\pdc03_module7\pdc03_module7\pdc03_module7\obj\Debug\netstandard2.1\pdc03_module7.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\pdc03_module7\pdc03_module7\pdc03_module7\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\User\source\repos\pdc03_module7\pdc03_module7\pdc03_module7\obj\Debug\netstandard2.1\pdc03_module7.dll
+C:\Users\User\source\repos\pdc03_module7\pdc03_module7\pdc03_module7\obj\Debug\netstandard2.1\refint\pdc03_module7.dll
+C:\Users\User\source\repos\pdc03_module7\pdc03_module7\pdc03_module7\obj\Debug\netstandard2.1\pdc03_module7.pdb
+C:\Users\User\source\repos\pdc03_module7\pdc03_module7\pdc03_module7\obj\Debug\netstandard2.1\ref\pdc03_module7.dll
